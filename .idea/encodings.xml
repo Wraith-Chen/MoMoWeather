@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/momoweather/android/City.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/momoweather/android/County.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/city.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/county.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/province.txt" charset="GBK" />
+  </component>
+</project>

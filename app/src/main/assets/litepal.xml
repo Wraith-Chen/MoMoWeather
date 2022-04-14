@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="momo_weather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.example.momoweather.android.db.Province" />
+        <mapping class="com.example.momoweather.android.db.City" />
+        <mapping class="com.example.momoweather.android.db.County" />
+        <mapping class="com.example.momoweather.android.db.WeatherString"/>
+    </list>
+
+</litepal>
